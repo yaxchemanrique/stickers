@@ -1,0 +1,8 @@
+.container {
+  background-color: hsl(300, 65%, 89%);
+  min-height: calc(100vh - 16px);
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+}
